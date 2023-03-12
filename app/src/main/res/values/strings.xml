@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">PIMS</string>
+    <string name="submit">Submit</string>
+    <string name="message">Message</string>
+    <string name="qty">Quantity</string>
+    <string name="company_name">Company Name</string>
+    <string name="email">Email</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="inquire">Inquire</string>
+
+    <string-array name="sel_product">
+        <item>Brass Cap</item>
+        <item>Brass Hex</item>
+        <item>Brass T</item>
+        <item>Brass lbo</item>
+    </string-array>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="todo">TODO</string>-->
+    <string name="parth_brass">PARTH BRASS</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="inquery">Inquery</string>
+    <string name="our_work">Our Work</string>
+    <string name="our_team">Our Team</string>
+    <string name="this_is_the_parth">This is the parth</string>
+    <string name="do_you_want_to_submit">Do You Want To Submit ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="inquiry">Inquiry</string>
+    <string name="todo">TODO</string>
+    <string name="product_name">Product Name</string>
+
+    <!--    <string name="submit">Submit</string>-->
+</resources>
